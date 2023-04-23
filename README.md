@@ -1,3 +1,3 @@
-# Kart-Process-Win-10-batch
+# KartDrift, dwm-Process-setting
 
-Automatically set Kartrider and dwm processor affinity and priority
+Automatically set KartDrift and dwm processor affinity and priority
